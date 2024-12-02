@@ -1,3 +1,5 @@
 # Files I don't want to be seen
 
 *.txt
+!*.txt
+Employee Salaries.txt
